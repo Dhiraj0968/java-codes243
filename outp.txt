@@ -1,0 +1,8 @@
+Add two int:15
+Add three int:113
+Add two double:15.6
+student s4 details
+name :unknown,Age:0
+name :patil,Age:20
+name :patil,Age:20
+name :patil,Age:20
